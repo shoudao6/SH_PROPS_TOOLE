@@ -1,0 +1,7 @@
+MIDlet-1: MyMidlet,,com.zn.yang.main.MyMidlet
+MIDlet-Jar-URL: SH_PROPS_TOOLE.jar
+MIDlet-Name: SH_PROPS_TOOLE Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
